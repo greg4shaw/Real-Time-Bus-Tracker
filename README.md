@@ -35,9 +35,7 @@ Version 1.1.1
 
 ## License
 
-License information: The MIT License (X11 License) is a permissive free software license originating at the Massachusetts Institute of Technology (MIT) in the late 1980s. As a permissive license, it puts only very limited restriction on reuse and has, therefore, high license compatibility.
-
-Copyright (c)
+Copyright (c) 2021 Gregory Shaw
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
